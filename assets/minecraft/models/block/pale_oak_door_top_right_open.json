@@ -1,0 +1,18 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "block/pale_oak_door_top"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 3, 16, 16 ],
+            "faces": {
+                "up":  { "uv": [  0, 3, 16, 0 ], "texture": "#particle", "cullface": "up", "rotation": 270 },
+                "north": { "uv": [  16,  0,  13, 16 ], "texture": "#particle", "cullface": "north" },
+                "south": { "uv": [  13,  0,  16, 16 ], "texture": "#particle", "cullface": "south" },
+                "west":  { "uv": [ 16,  0,  0, 16 ], "texture": "#particle", "cullface": "west" },
+                "east":  { "uv": [  0,  0, 16, 16 ], "texture": "#particle" }
+            }
+        }
+    ]
+}
