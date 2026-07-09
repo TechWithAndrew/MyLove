@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "hadeslogo",
-		"particle": "hadeslogo"
+		"1": "item/hadeslogo",
+		"particle": "item/hadeslogo"
 	},
 	"elements": [
 		{
